@@ -7,9 +7,9 @@ website:
   title: "DKU Wiki"
   navbar:
     left:
-      - href: articles/index.qmd
+      - href: index.md
         text: About
-      - href: articles/dining.qmd
+      - href: articles/dining.md
         text: Dining
 
 format:

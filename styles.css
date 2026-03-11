@@ -1,7 +1,10 @@
 /* css styles */
 
-h1, h2, h3, h4 {
-    font-family: 'EB Garamond', 'Times New Roman', Times, serif;
+h1,
+h2,
+h3,
+h4 {
+	font-family: "Garamond", "Times New Roman", Times, serif;
 }
 
 /* body {
