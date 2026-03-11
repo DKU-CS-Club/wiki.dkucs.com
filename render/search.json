@@ -1,24 +1,24 @@
 [
   {
-    "objectID": "articles/index.html",
-    "href": "articles/index.html",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Welcome to the DKU Wiki",
     "section": "",
     "text": "Get started with:\n\nDining"
   },
   {
-    "objectID": "articles/index.html#introduction",
-    "href": "articles/index.html#introduction",
+    "objectID": "index.html#introduction",
+    "href": "index.html#introduction",
     "title": "Welcome to the DKU Wiki",
     "section": "",
     "text": "Get started with:\n\nDining"
   },
   {
-    "objectID": "articles/index.html#about-the-project",
-    "href": "articles/index.html#about-the-project",
+    "objectID": "index.html#about-the-project",
+    "href": "index.html#about-the-project",
     "title": "Welcome to the DKU Wiki",
     "section": "About the project",
-    "text": "About the project\nThe DKU Wiki is an initiative led by the DKU Computer Science Club to serve as a knowledge hub for up-to-date information regarding campus life and general tips for success.\nArticles all authored by students at DKU."
+    "text": "About the project\nThe DKU Wiki is an initiative led by the DKU Computer Science Club to serve as a knowledge hub for up-to-date information regarding campus life and general tips for success.\nAll articles authored by students at DKU."
   },
   {
     "objectID": "articles/dining.html",
@@ -40,5 +40,40 @@
     "title": "Dining at DKU",
     "section": "Takeout「外卖」",
     "text": "Takeout「外卖」\nThere are several apps for ordering takeout in China. Here are some recommendations for you to get started:\n\n\n\n\n\n\n\n\nName\nPros\nCons\n\n\n\n\n 淘宝闪购 (f.k.a 饿了么)\n…\n…\n\n\n 美团 (Meituan)\ngenerous coupons\n…\n\n\n\n\nTakeout cabinet locations\n\n\n\nLocation\nName in Chinese\n\n\n\n\nNorth gate (between UG residence halls #D and #H)\n…"
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html",
+    "href": "CODE_OF_CONDUCT.html",
+    "title": "Goal",
+    "section": "",
+    "text": "Our goal is to provide a space where it is safe for everyone to contribute to, and get support for, open-source wiki in a respectful and cooperative manner.\nWe value all contributions and want to make this organization and its surrounding community a place for everyone.\nAs members, contributors, and everyone else who may participate in the development, we strive to keep the entire experience civil.\nWe aim to have this repository be the guide all students can find and share information they value."
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html#correctionedit",
+    "href": "CODE_OF_CONDUCT.html#correctionedit",
+    "title": "Goal",
+    "section": "Correction/Edit",
+    "text": "Correction/Edit\nIf your message is found to be misleading or poorly worded, a member might edit your message."
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html#warningdeletion",
+    "href": "CODE_OF_CONDUCT.html#warningdeletion",
+    "title": "Goal",
+    "section": "Warning/Deletion",
+    "text": "Warning/Deletion\nIf your message is found inappropriate, a member might give you a public or private warning, and/or delete your message."
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html#mute",
+    "href": "CODE_OF_CONDUCT.html#mute",
+    "title": "Goal",
+    "section": "Mute",
+    "text": "Mute\nIf your message is disruptive, or you have been repeatedly violating the standards, a member might mute (or temporarily ban) you."
+  },
+  {
+    "objectID": "CODE_OF_CONDUCT.html#ban",
+    "href": "CODE_OF_CONDUCT.html#ban",
+    "title": "Goal",
+    "section": "Ban",
+    "text": "Ban\nIf your message is hateful, very disruptive, or other, less serious infractions are repeated ignoring previous punishments, a member might ban you permanently."
   }
 ]
