@@ -57,7 +57,7 @@ If your message is found inappropriate, a member might give you a public or priv
 
 If your message is disruptive, or you have been repeatedly violating the standards, a member might mute (or temporarily ban) you.
 
-## ban
+## Ban
 
 If your message is hateful, very disruptive, or other, less serious infractions are repeated ignoring previous punishments, a member might ban you permanently.
 
