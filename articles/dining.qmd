@@ -42,8 +42,8 @@ There are several apps for ordering takeout in China. Here are some recommendati
 
 | Name | Pros | Cons |
 | --- | --- | --- |
-| ![eleme logo](/images/eleme.webp){width=40} 淘宝闪购 (f.k.a 饿了么) | ... | ... |
-|![meituan logo](/images/Meituan-Logo.png){width=50} 美团 (Meituan) | generous coupons | ... |
+| ![eleme logo](/assets/eleme.webp){width=40} 淘宝闪购 (f.k.a 饿了么) | ... | ... |
+|![meituan logo](/assets/Meituan-Logo.png){width=50} 美团 (Meituan) | generous coupons | ... |
 
 ### Takeout cabinet locations 
 
