@@ -1,15 +1,15 @@
 project:
   type: website
-  preview: 
+  preview:
     port: 4201
 
 website:
   title: "DKU Wiki"
   navbar:
     left:
-      - href: index.qmd
+      - href: articles/index.qmd
         text: About
-      - href: dining/dining.qmd
+      - href: articles/dining.qmd
         text: Dining
 
 format:
@@ -22,6 +22,3 @@ format:
       - brand
     css: styles.css
     toc: true
-
-
-

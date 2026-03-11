@@ -1,7 +1,14 @@
 ---
 title: Dining at DKU
 subtitle: 'Whether you eat to live, or live to eat—this guide will get you started on nutrition-**maxxing** at DKU.'
+author: Anar Nyambayar
 ---
+
+::: {.callout-caution}
+
+This page is **incomplete**. You can contribute through a pull request on our GitHub.
+
+:::
 
 ## The Community Center Canteen
 
@@ -35,8 +42,8 @@ There are several apps for ordering takeout in China. Here are some recommendati
 
 | Name | Pros | Cons |
 | --- | --- | --- |
-| 淘宝闪购 (f.k.a 饿了么) | ... | ... |
-| 美团 | generous coupons | ... |
+| ![eleme logo](/images/eleme.webp){width=40} 淘宝闪购 (f.k.a 饿了么) | ... | ... |
+|![meituan logo](/images/Meituan-Logo.png){width=50} 美团 (Meituan) | generous coupons | ... |
 
 ### Takeout cabinet locations 
 
