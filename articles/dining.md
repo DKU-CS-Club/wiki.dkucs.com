@@ -6,7 +6,7 @@ author: Anar Nyambayar
 
 ::: {.callout-caution}
 
-This page is **incomplete**. You can contribute through a pull request on our GitHub.
+This page is **incomplete**. You can contribute through a pull request on our [GitHub](https://github.com/DKU-CS-Club/wiki.dkucs.com).
 
 :::
 

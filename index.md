@@ -12,6 +12,6 @@ Get started with:
 
 ## About the project 
 
-The **DKU Wiki** is an initiative led by the [DKU Computer Science Club](www.dkucs.com) to serve as a knowledge hub for up-to-date information regarding campus life and general tips for success. 
+The **DKU Wiki** is an initiative led by the [DKU Computer Science Club](https://www.dkucs.com) to serve as a knowledge hub for up-to-date information regarding campus life and general tips for success. 
 
 All articles authored by students at DKU.  

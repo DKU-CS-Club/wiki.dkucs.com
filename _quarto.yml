@@ -11,6 +11,10 @@ website:
         text: About
       - href: articles/dining.md
         text: Dining
+      - href: articles/e-commerce.md
+        text: E-commerce
+      - href: articles/travel.md
+        text: Travel
 
 format:
   html:
@@ -18,7 +22,8 @@ format:
     monofont: JetBrains Mono
     email-obfuscation: javascript
     theme:
-      - cosmo
-      - brand
+      light: flatly
+      dark: darkly
+    respect-user-color-scheme: true
     css: styles.css
     toc: true
