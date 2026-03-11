@@ -1,0 +1,45 @@
+---
+title: Dining at DKU
+subtitle: 'Whether you eat to live, or live to eat—this guide will get you started on nutrition-**maxxing** at DKU.'
+---
+
+## The Community Center Canteen
+
+::: {.callout-tip} 
+
+## Normal Open Hours
+
+| Every day | Time |
+|---|---|
+| Breakfast | 7:00–9:30 |
+| Lunch | 11:00—13:30 |
+| Dinner | 17:00—19:30 |
+
+::: 
+
+#### Holiday Schedules
+
+No updates yet.
+
+### Offerings
+
+| Location | What you can find | Examples |
+|---|---|---|
+| 1F, closest to main stairs | Sandwich Bar | Sandwiches, fruit cups, pastries |
+| 2F, closest to main stairs| Western Food | Pasta, pizza, fried chicken, french fries |
+| 2F, East-most side | Halal Food | Fried rice, pita bread soup, beef noodle soup |
+
+## Takeout「外卖」
+
+There are several apps for ordering takeout in China. Here are some recommendations for you to get started: 
+
+| Name | Pros | Cons |
+| --- | --- | --- |
+| 淘宝闪购 (f.k.a 饿了么) | ... | ... |
+| 美团 | generous coupons | ... |
+
+### Takeout cabinet locations 
+
+| Location  | Name in Chinese |
+|---|---|
+| North gate (between UG residence halls #D and #H) | ... |
