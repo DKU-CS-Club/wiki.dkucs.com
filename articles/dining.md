@@ -49,4 +49,8 @@ There are several apps for ordering takeout in China. Here are some recommendati
 
 | Location  | Name in Chinese |
 |---|---|
-| North gate (between UG residence halls #D and #H) | ... |
+| North gate (between UG residence halls #D and #H) | 昆山杜克大学本科生公寓北侧取餐柜 |
+| South gate (beside the main entrance) | 昆山杜克大学正门南侧餐柜 |
+| West gate (beside the guard office  | 昆山杜克大学西门取餐柜 |
+| East of Employee Apartment | 昆山杜克大学员工中心东侧取餐柜 |
+
