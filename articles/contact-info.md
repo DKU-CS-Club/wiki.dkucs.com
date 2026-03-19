@@ -23,13 +23,14 @@ author: Temuulen Enkhtamir
 
 ## Studying at DKU
 
-| Office Name | Email |
-| --------------- | --------------- |
-| Undergraduate Studies Office | ugstudies@dukekunshan.edu.cn |
-|  Graduate Admissions | admissions@dukekunshan.edu.cn |
-|  Master of Engineering in Electrical and Computer Engineering | dku-ece-admission@dukekunshan.edu.cn |
-|  Master of Environmental Policy | iMEP@dukekunshan.edu.cn |
-|  Master of Management Studies | mms-education@dukekunshan.edu.cn |
-|  Master of Science in Global Health | gh-education@dukekunshan.edu.cn |
-|  Master of Science in Medical Physics | dku-grad-admissions@duke.edu |
+| Office Name | Email | Phone |
+| --------------- | --------------- | ---------|
+| Undergraduate Studies Office | ugstudies@dukekunshan.edu.cn | |
+| Office of Academic Services | ug_acadservices@dukekunshan.edu.cn | 0512 3665-7896|
+|  Graduate Admissions | admissions@dukekunshan.edu.cn | |
+|  Master of Engineering in Electrical and Computer Engineering | dku-ece-admission@dukekunshan.edu.cn | |
+|  Master of Environmental Policy | iMEP@dukekunshan.edu.cn | |
+|  Master of Management Studies | mms-education@dukekunshan.edu.cn | |
+|  Master of Science in Global Health | gh-education@dukekunshan.edu.cn | |
+|  Master of Science in Medical Physics | dku-grad-admissions@duke.edu | |
 
