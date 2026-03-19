@@ -1,6 +1,6 @@
 # Welcome to DKU Wiki Project!
 
-You can find our issue at [wiki.dkucs.com](wiki.dkucs.com).
+You can find our website at [wiki.dkucs.com](wiki.dkucs.com).
 
 ## Contribution Guide
 
